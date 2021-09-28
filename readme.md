@@ -12,6 +12,10 @@ Travel Photo sharing social network.
 - User can see other user posts and details
 - user can see cities data
 
+# Detabase design
+
+![sketches](public/img/db.png)
+
 # Some visuals
 
 
