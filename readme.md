@@ -14,7 +14,7 @@ Travel Photo sharing social network.
 
 # Detabase design
 
-![sketches](public/img/db.png)
+![sketches](public/img/db.PNG)
 
 # Some visuals
 
